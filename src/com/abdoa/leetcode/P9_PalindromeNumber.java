@@ -1,6 +1,6 @@
 package com.abdoa.leetcode;
 
-public class PalindromeNumber {
+public class P9_PalindromeNumber {
 
     public static void main(String[] args) {
         int num = 10;
