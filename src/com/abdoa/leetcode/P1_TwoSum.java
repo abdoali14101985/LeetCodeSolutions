@@ -3,7 +3,7 @@ package com.abdoa.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSum {
+public class P1_TwoSum {
 
     public static void main(String[] args) {
 
